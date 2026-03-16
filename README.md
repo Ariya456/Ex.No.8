@@ -67,14 +67,94 @@ Conversational Editing: Use natural language to refine, edit, or adjust images a
 6.	Save and Document: Save the generated image and document your prompt alongside any observations on how the output compares to the original.
 7.	
 ## Deliverables:
-1.	The Original Image: Provided image for reference.
+# 1.	The Original Image: Provided image for reference.
+(https://github.com/Ariya456/Ex.No.8/blob/03a2c72167d28e0331d5e1c2dd562bdb67caa23d/Gemini_Generated_Image_a1ws71a1ws71a1ws.png)
 
-3.	The Final Generated Image: The image created using your refined prompt.
-4.	Prompts Used: The text prompts created during the experiment.
-5.	Comparison Report: A report highlighting the differences and similarities between the original and generated images, along with any adjustments made to the prompt.
+# 2.	The Final Generated Image: The image created using your refined prompt.
+(https://github.com/Ariya456/Ex.No.8/blob/03a2c72167d28e0331d5e1c2dd562bdb67caa23d/Gemini_Generated_Image_a1ws71a1ws71a1ws.png)
+
+# 3.	Prompts Used: The text prompts created during the experiment.
+   
+Basic prompt -
+```
+Generate an image of a busy city street at night with cars, streetlights, and people walking on the sidewalks.
+```
+
+Refined prompt - 
+```
+Generate a high-resolution image of a busy city street at night. The street is illuminated by bright streetlights and colorful neon signs from nearby shops and buildings. Several cars and taxis move along the road, with their headlights and taillights creating light reflections on the slightly wet asphalt.
+On both sides of the street, people are walking on the sidewalks, some carrying shopping bags while others are talking or waiting to cross the road. Tall buildings with glowing windows rise in the background, and traffic signals add red, yellow, and green highlights to the scene.
+The atmosphere should feel lively and energetic, with realistic lighting, detailed textures, and reflections on the road, giving the scene a cinematic nighttime urban look.
+```
+# 4.	Comparison Report: A report highlighting the differences and similarities between the original and generated images, along with any adjustments made to the prompt.
+
+Comparison Report: Original vs Generated Image
+
+Image Generation Platform: Google Gemini developed by Google
+
+Two images were analyzed:
+
+Original image generated using the basic prompt
+
+Generated image produced using the refined prompt
+
+Both images depict a busy nighttime city street scene, but the refined prompt introduces additional details that influence the composition and visual richness.
+
+Prompt Comparison
+
+| Feature           | Original Prompt           | Refined Prompt                          |
+| ----------------- | ------------------------- | --------------------------------------- |
+| Scene description | Busy city street at night | Detailed urban street environment       |
+| Vehicles          | Cars mentioned            | Cars and taxis with visible headlights  |
+| Lighting          | Streetlights mentioned    | Streetlights + neon signs + reflections |
+| People            | Walking on sidewalks      | People shopping, talking, crossing      |
+| Environment       | General street            | Tall buildings with illuminated windows |
+| Atmosphere        | Not specified             | Lively and energetic urban atmosphere   |
+| Visual detail     | Basic                     | Cinematic lighting and reflections      |
+
+Visual Differences
+
+| Aspect              | Original Image           | Generated Image                        |
+| ------------------- | ------------------------ | -------------------------------------- |
+| Scene complexity    | Moderately detailed      | More visually dense                    |
+| Lighting effects    | Standard street lighting | Brighter neon signage and reflections  |
+| Traffic detail      | Cars visible             | More diverse traffic including taxis   |
+| Pedestrian activity | General walking          | More varied activities                 |
+| Urban atmosphere    | Busy but neutral         | More energetic metropolitan feel       |
+| Reflections         | Minimal                  | Strong reflections on the road surface |
+
+Adjustments Made to the Prompt
+
+The refined prompt included several enhancements:
+
+| Adjustment                                        | Purpose                         |
+| ------------------------------------------------- | ------------------------------- |
+| Added **neon lights and building signs**          | Improves visual richness        |
+| Included **headlights and reflections**           | Enhances realism                |
+| Added **pedestrian activities**                   | Makes scene more dynamic        |
+| Described **tall buildings with glowing windows** | Improves urban depth            |
+| Specified **cinematic nighttime atmosphere**      | Guides the model’s visual style |
+
+Overall Evaluation
+
+| Evaluation Criteria | Original Image | Generated Image |
+| ------------------- | -------------- | --------------- |
+| Visual detail       | Moderate       | High            |
+| Lighting realism    | Basic          | Enhanced        |
+| Urban atmosphere    | Moderate       | Strong          |
+| Scene complexity    | Medium         | High            |
+| Prompt guidance     | Minimal        | Detailed        |
+
+
 
 ## Conclusion:
-By using detailed and well-crafted prompts, text-to-image generation models can be effective in reproducing an image closely. The quality of the generated image depends on how accurately the prompt describes the image's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate images that closely match real-world visuals, which is useful for creative and practical applications.
+The refined prompt significantly improves the generated image by providing clearer guidance about lighting, environment, and urban activity. While both images maintain the core concept of a busy city street at night, the refined prompt leads to:
 
+Greater visual richness
 
-## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
+More realistic lighting
+
+A stronger cinematic urban atmosphere
+
+Thus, prompt specificity directly improves the quality and realism of AI-generated images.
+
